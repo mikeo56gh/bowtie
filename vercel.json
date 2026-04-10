@@ -1,0 +1,13 @@
+{
+  "name": "bowtiepro-vercel",
+  "version": "1.0.0",
+  "private": true,
+  "description": "BowtiePro — COMAH bowtie risk analysis tool for px Group Saltend Chemicals Park. Static frontend + Vercel serverless proxy for the Anthropic API.",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
