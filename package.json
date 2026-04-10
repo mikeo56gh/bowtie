@@ -1,5 +1,0 @@
-# Copy this file to .env.local for local development with `vercel dev`.
-# In production, set this value in the Vercel dashboard:
-#   Project → Settings → Environment Variables
-
-ANTHROPIC_API_KEY=sk-ant-your-key-here
